@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EshaanRamaul
-- 👀 I’m interested in Programming and Web Development    
-- 🌱 I’m currently doing my Bachelors at LAB University of Applied Sciences  
-- 📫 How to reach me- Email-
+- 👀 I’m interested in Programming, Web Development, Cyber Security and Embedded Systems  
+- 🌱 I’m currently doing my Bachelors In Industrial Information Technology at LAB University of Applied Sciences  
+- 📫 How to reach me
+- Email-
 - eshaan.ramaul@student.lab.fi
 - eshaanramaul@gmail.com
